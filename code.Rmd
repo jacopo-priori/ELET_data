@@ -25,12 +25,12 @@ library('RColorBrewer')
 library('sf')
 library('grid')
 library('ggmap')
-library("rnaturalearth")  # install_github('ropensci/rnaturalearthhires', force=TRUE1)
+library("rnaturalearth")  # install_github('ropensci/rnaturalearthhires', force=TRUE)
 library('ggpol')
 library('devtools')
 library("gridExtra")
 library('patchwork')
-library('mapIT')  # install_github('quantide/mapIT', force=TRUE1)
+library('mapIT')  # install_github('quantide/mapIT', force=TRUE)
 ```
 
 ```{r}
