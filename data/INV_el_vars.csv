@@ -1,0 +1,29 @@
+Nomevariabile;Tipo;Lunghezza;Descrizione;Valoriammessi;Modalità
+SCUOLA_ANONIMO;Numerico;3;Codice scuola;-;-
+CLASSE_ANONIMO;Numerico;3;Codice classe;-;-
+STUDENTE_ANONIMO;Numerico;5;Codice studente;-;-
+TIPO_SCUOLA;Numerico;1;Tipologia di Istituto;1,2,3,4;"1=Licei Scientifici Classici e Linguistici; 2=Altri Licei; 3= istituti Tecnici; 4= Istituti Professionali"
+Grado;Numerico;1;Grado scolastico;-;-
+genere;Numerico;1;Genere dello studente;1,2,9;"1=Maschio; 2=Femmina; 9= Dato mancante"
+mese;Numerico;2;Mese di nascita dello studente;1,2,3,4,5,6,7,8,9,10,11,12,99;"1=Gennaio; 2=Febbraio; 3=Marzo; 4=Aprile; 5=Maggio; 6=Giugno; 7=Luglio; 8=Agosto; 9=Settembre; 10=Ottobre; 11=Novembre; 12=Dicembre; 99= Dato mancante"
+anno;Numerico;1;Anno di nascita dello studente;1,2,3,4,5,6,9;"1=2001 (o prima); 2=2002; 3=2003; 4=2004; 5=2005; 6=2006; 9= Dato mancante"
+luogo;Numerico;1;Luogo di nascita dello studente;1,2,3,4,9;"1= Italia (o Repubblica di San Marino); 2= Unione Europea; 3= Paese europeo Non UE; 4= Altro; 9= Dato mancante"
+regolarità;Numerico;1;Indicatore della regolarità rispetto agli studi;1,3,9;"1=Regolare o anticipatario; 3=Posticipatario; 9=Dato mancante"
+origine;Numerico;1;Indicatore della origine;1,2,3,9;"1=Nativo; 2=Straniero I generazione; 3=Straniero II generazione; 9=Dato mancante"
+luogo_padre;Numerico;1;Luogo di nascita del padre;1,2,3,4,9;"1= Italia (o Repubblica di San Marino); 2= Unione Europea; 3= Paese europeo Non UE; 4= Altro; 9= Dato mancante"
+luogo_madre;Numerico;1;Luogo di nascita della madre;1,2,3,4,9;"1= Italia (o Repubblica di San Marino); 2= Unione Europea; 3= Paese europeo Non UE; 4= Altro; 9= Dato mancante"
+voto_scritto_ita;Numerico;2;Voto scritto al 1° quadrimestre in Italiano;11,12,99;"11=Non classificato; 12=Senza voto scritto; 99= Dato mancante"
+voto_orale_ita;Numerico;2;Voto orale al 1° quadrimestre in Italiano;11.99;"11=Non classificato;  99=Non disponibile"
+voto_scritto_mat;Numerico;2;Voto scritto al 1° quadrimestre in Matematica;11,12,99;"11=Non classificato; 12=Senza voto scritto; 99= Dato mancante"
+voto_orale_mat;Numerico;2;Voto orale al 1° quadrimestre in Matematica;11.99;"11=Non classificato; 99= Dato mancante"
+voto_scritto_eng;Numerico;2;Voto scritto al 1° quadrimestre in Inglese;11,12,99;"11=Non classificato; 12=Senza voto scritto; 99= Dato mancante"
+voto_orale_eng;Numerico;2;Voto orale al 1° quadrimestre in Inglese;11.99;"11=Non classificato; 99= Dato mancante"
+codice_orario;Numerico;1;Codice Orario dello studente;1,2,3,4,5,9;"1=Da 20 a 24 ore; 2=Da 25 a 29 ore; 3=Da 30 a 34 ore; 4=Da 35 a 39 ore; 5=40 ore e più; 9=Dato mancante"
+Cod_Reg;Numerico;2;Codice Regione;1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,51,52,53,54;"1=Valle d'Aosta; 2=Piemonte; 3=Liguria; 4=Lombardia; 6=Veneto; 7=Friuli-Venezia Giulia; 8=Emilia-Romagna; 9 =Toscana; 10=Umbria; 11=Marche; 12=Lazio; 13=Abruzzo; 14=Molise; 15=Campania; 16=Puglia; 17=Basilicata; 18=Calabria; 19=Sicilia; 20=Sardegna; 51=Prov. Aut. Bolzano (l. it.); 52=Prov. Aut. Bolzano (l. lad.); 53=Prov. Aut. Bolzano (l. ted.); 54=Prov. Aut. Trento"
+Areageo_5;Numerico;1;Area Geografica;1,2,3,4,5;"1=Nord ovest; 2=Nord est; 3=Centro; 4= Sud; 5= Sud e isole"
+WLE_ELI_200;Numerico;8;Punteggio WLE Italiano (stima delle abilità secondo il modello di Rasch) su scala nazionale;-;-
+LIVELLI_WLE_ELI;Numerico;8;Livello di competenza raggiunto in Inglese Listening  - (per le analisi del Rapporto il Livello 0, laddove presente, è stato accorpato al livello 1);1,2,3;"1=Non raggiunge il livello B1; 2=B1; 3=B2"
+peso_studente;Numerico;8;Peso finale studente;-;-
+peso_classe;Numerico;8;Peso classe;-;-
+peso_scuola;Numerico;8;Peso scuola;-;-
+ESCS_studente;Numerico;11;Background socio-economico-culturale dello studente;-;-
